@@ -28,7 +28,7 @@ function ternaryTeenager(age) {if (age >= 13 && age <= 19) {
     return "You are not a teenager"
 }
 
-function switchAge(age) {switch(mood) {case 13:
+function switchAge(age) {switch(age) {case 13:
     return "You are a teenager";
     break;
   case 14:
